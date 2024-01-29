@@ -10,7 +10,7 @@
 /coverage
 
 # security
-/middleware.js
+.middleware.js
 
 # next.js
 /.next/
